@@ -23,10 +23,6 @@ O objetivo foi treinar conceitos fundamentais de front-end, como estruturação 
 
 Este projeto faz parte dos meus estudos em desenvolvimento front-end, com foco em fortalecer a base antes de avançar para frameworks como React e outras tecnologias modernas.
 
-## 📸 Preview
-
-(Aqui você pode adicionar prints ou gifs do site)
-
 ## 👨‍💻 Autor
 
 Leonardo Bizerra  
